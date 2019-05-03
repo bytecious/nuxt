@@ -1,22 +1,10 @@
-# test
+# STORE
 
-> nuxt learning
+**This directory is not required, you can delete it if you don't want to use it.**
 
-## Build Setup
+This directory contains your Vuex Store files.
+Vuex Store option is implemented in the Nuxt.js framework.
 
-``` bash
-# install dependencies
-$ npm install
+Creating a file in this directory automatically activates the option in the framework.
 
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/vuex-store).
